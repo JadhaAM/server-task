@@ -16,28 +16,15 @@ npm install
 ```
 
 3. Configure the server
-Update `config/server-config.json` with your route configuration.
+Update `server-config.json` with your route configuration.
 
 4. Generate and run the server
 ```bash
-npm run generate  # Generates server code
 npm start        # Starts the server
 ```
 
-## Development
-
-Run the server in development mode:
-```bash
-npm run dev
-```
 
 ## Testing
-
-### Automated Tests
-Run tests:
-```bash
-npm test
-```
 
 ### Postman API Tests
 
